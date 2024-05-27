@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AddAthleticsFacilityView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddBookView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddExamView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AthleticsFacilityView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditAthleticsFacilityView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditBookView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditExamView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ExamView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddAthleticsFacilityView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddBookView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddExamView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AthleticsFacilityView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditAthleticsFacilityView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditBookView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditExamView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ExamView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
