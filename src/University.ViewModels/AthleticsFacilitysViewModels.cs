@@ -115,7 +115,7 @@ namespace University.ViewModels
         {
             if (obj is not null)
             {
-                string facilityId = (string)obj;
+                long facilityId = (long)obj;
                 AthleticsFacility? facility = _context.AthleticsFacilities.Find(facilityId);
                 if (facility is not null)
                 {

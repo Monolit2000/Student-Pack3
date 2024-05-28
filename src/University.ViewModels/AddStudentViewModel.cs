@@ -222,7 +222,7 @@ public class AddStudentViewModel : ViewModelBase, IDataErrorInfo
 
     private bool IsValid()
     {
-        string[] properties = { "Name", "LastName", "PESEL", "BirthDay"};
+        string[] properties = { "Name", "LastName" /*"PESEL"*/ /*"BirthDay"*/};
         foreach (string property in properties)
         {
             if (!string.IsNullOrEmpty(this[property]))

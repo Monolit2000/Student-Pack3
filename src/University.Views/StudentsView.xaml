@@ -50,11 +50,11 @@
                             </DataTemplate>
                         </GridViewColumn.CellTemplate>
                     </GridViewColumn>
-                    <GridViewColumn Header="Subjects" Width="200">
+                    <GridViewColumn Header="Athletics Facilitys" Width="200">
                         <GridViewColumn.CellTemplate>
                             <DataTemplate>
                                 <Expander Header="View"  Padding="2">
-                                    <ItemsControl ItemsSource="{Binding Subjects}">
+                                    <ItemsControl ItemsSource="{Binding AthleticsFacilitys}">
                                         <ItemsControl.ItemTemplate>
                                             <DataTemplate>
                                                 <Grid Margin="0,0,0,5">

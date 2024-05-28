@@ -115,7 +115,7 @@ namespace University.ViewModels
         {
             if (obj is not null)
             {
-                long examId = (long)obj;
+                int examId = (int)obj;
                 Exam? exam = _context.Exams.Find(examId);
                 if (exam is not null)
                 {
