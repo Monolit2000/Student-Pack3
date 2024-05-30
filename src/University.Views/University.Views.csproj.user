@@ -11,9 +11,6 @@
     <Compile Update="AddClassroomView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="AddExamView.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="AthleticsFacilityView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -32,12 +29,6 @@
     <Compile Update="EditClassroomView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="EditExamView.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="ExamView.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="AddAthleticsFacilityView.xaml">
@@ -47,9 +38,6 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="AddClassroomView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="AddExamView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="AthleticsFacilityView.xaml">
@@ -68,12 +56,6 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="EditClassroomView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="EditExamView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="ExamView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

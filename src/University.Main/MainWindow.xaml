@@ -37,10 +37,6 @@
                 <ContentControl Content="{Binding AthleticsFacilitySubView}" />
             </TabItem>
 
-            <TabItem Header="Exams" Tag="&#xE779;">
-                <ContentControl Content="{Binding ExamSubView}" />
-            </TabItem>
-
             <TabItem Header="Classroom" Tag="&#xE779;">
                 <ContentControl Content="{Binding ClassroomSubView}" />
             </TabItem>

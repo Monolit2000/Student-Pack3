@@ -59,18 +59,6 @@
         <views:SearchView />
     </DataTemplate>
     
-    
-    <DataTemplate DataType="{x:Type viewmodels:ExamViewModel}">
-        <views:ExamView />
-    </DataTemplate>
-    <DataTemplate DataType="{x:Type viewmodels:AddExamViewModel}">
-        <views:AddExamView />
-    </DataTemplate>
-    <DataTemplate DataType="{x:Type viewmodels:EditExamViewModel}">
-        <views:EditExamView />
-    </DataTemplate>
-
-
 
     <DataTemplate DataType="{x:Type viewmodels:ClassroomViewModel}">
         <views:ClassroomView />

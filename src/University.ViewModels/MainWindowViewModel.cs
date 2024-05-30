@@ -100,19 +100,6 @@ public class MainWindowViewModel : ViewModelBase
         }
     }
 
-    private object? _examSubView = null;
-    public object? ExamSubView
-    {
-        get
-        {
-            return _examSubView;
-        }
-        set
-        {
-            _examSubView = value;
-            OnPropertyChanged(nameof(ExamSubView));
-        }
-    }
 
 
     private object? _classroomViewModel = null;
@@ -153,7 +140,6 @@ public class MainWindowViewModel : ViewModelBase
         SearchSubView = new SearchViewModel(_context, _dialogService);
         BookSubView = new BookViewModel(_context, _dialogService);
         AthleticsFacilitySubView = new AthleticsFacilitysViewModel(_context, _dialogService);
-        ExamSubView = new ExamViewModel(_context, _dialogService);
         ClassroomSubView = new ClassroomViewModel(_context, _dialogService);    
     }
 }
