@@ -265,10 +265,16 @@ public class EditStudentViewModel : ViewModelBase, IDataErrorInfo
         this.LastName = _student.LastName;
         this.PESEL = _student.PESEL;
         this.BirthDate = _student.BirthDate;
-        if (_student.Subjects is null)
+        if (_student.AthleticsFacilitys is null)
         {
             return;
         }
+
+        foreach (var athleticsFacility in AssignedAthleticsFacilitys)
+        {
+            athleticsFacility.IsSelected = false;
+        }
+
         foreach (AthleticsFacility athleticsFacility in _student.AthleticsFacilitys)
         {
             if (athleticsFacility is not null && AssignedAthleticsFacilitys is not null)

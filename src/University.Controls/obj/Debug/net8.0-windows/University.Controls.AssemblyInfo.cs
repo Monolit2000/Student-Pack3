@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("University.Controls")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b261d3142166e4fb7153e15ed959865ebafa7a43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+381ecb29c55db2372fee87666a03e3608505f1a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("University.Controls")]
 [assembly: System.Reflection.AssemblyTitleAttribute("University.Controls")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
