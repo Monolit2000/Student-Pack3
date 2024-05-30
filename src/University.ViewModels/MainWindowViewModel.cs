@@ -114,6 +114,23 @@ public class MainWindowViewModel : ViewModelBase
         }
     }
 
+
+    private object? _classroomViewModel = null;
+    public object? ClassroomSubView
+    {
+        get
+        {
+            return _classroomViewModel;
+        }
+        set
+        {
+            _classroomViewModel = value;
+            OnPropertyChanged(nameof(ClassroomSubView));
+        }
+    }
+
+
+
     private static MainWindowViewModel? _instance = null;
     public static MainWindowViewModel? Instance()
     {
@@ -136,6 +153,7 @@ public class MainWindowViewModel : ViewModelBase
         SearchSubView = new SearchViewModel(_context, _dialogService);
         BookSubView = new BookViewModel(_context, _dialogService);
         AthleticsFacilitySubView = new AthleticsFacilitysViewModel(_context, _dialogService);
-        ExamSubView = new ExamViewModel(_context, _dialogService); 
+        ExamSubView = new ExamViewModel(_context, _dialogService);
+        ClassroomSubView = new ClassroomViewModel(_context, _dialogService);    
     }
 }

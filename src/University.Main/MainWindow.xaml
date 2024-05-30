@@ -42,7 +42,9 @@
                 <ContentControl Content="{Binding ExamSubView}" />
             </TabItem>
 
-
+            <TabItem Header="Classroom" Tag="&#xE779;">
+                <ContentControl Content="{Binding ClassroomSubView}" />
+            </TabItem>
 
         </TabControl>
     </Grid>

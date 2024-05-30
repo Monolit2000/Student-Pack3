@@ -21,9 +21,10 @@ namespace University.Data
         public DbSet<AthleticsFacility> AthleticsFacilities { get; set; }
         public DbSet<Exam> Exams { get; set; }
 
-      
 
-      
+        public DbSet<Classroom> Classrooms { get; set; }
+
+
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -168,6 +169,44 @@ namespace University.Data
 );
 
 
+            #endregion
+
+            #region Classroom
+            modelBuilder.Entity<Classroom>().HasData(
+                new Classroom
+                {
+                    ClassroomId = 1,
+                    Location = "Building A, Room 101",
+                    Capacity = 30,
+                    AvailableSeats = 25,
+                    Projector = true,
+                    Whiteboard = true,
+                    Microphone = false,
+                    Description = "Standard classroom with projector and whiteboard."
+                },
+                new Classroom
+                {
+                    ClassroomId = 2,
+                    Location = "Building B, Room 202",
+                    Capacity = 50,
+                    AvailableSeats = 50,
+                    Projector = true,
+                    Whiteboard = true,
+                    Microphone = true,
+                    Description = "Large lecture hall with full audio-visual equipment."
+                },
+                new Classroom
+                {
+                    ClassroomId = 3,
+                    Location = "Building C, Room 303",
+                    Capacity = 20,
+                    AvailableSeats = 18,
+                    Projector = false,
+                    Whiteboard = true,
+                    Microphone = false,
+                    Description = "Small classroom with whiteboard."
+                }
+            );
             #endregion
 
             #endregion

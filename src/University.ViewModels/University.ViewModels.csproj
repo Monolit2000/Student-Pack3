@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="LibrarysSub\**" />
+    <EmbeddedResource Remove="LibrarysSub\**" />
+    <None Remove="LibrarysSub\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0-preview2" />
   </ItemGroup>
 
@@ -14,10 +20,6 @@
     <ProjectReference Include="..\University.Data\University.Data.csproj" />
     <ProjectReference Include="..\University.Extensions\University.Extensions.csproj" />
     <ProjectReference Include="..\University.Interfaces\University.Interfaces.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="LibrarysSub\" />
   </ItemGroup>
 
 </Project>

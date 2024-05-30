@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 
-18196666521
+21-1374061998
 
-16-1199613199
+19-1481159560
 245-130325559
-AddAthleticsFacilityView.xaml;AddBookView.xaml;AddExamView.xaml;AddStudentView.xaml;AddSubjectView.xaml;AthleticsFacilityView.xaml;BookView.xaml;DataTemplates.xaml;EditAthleticsFacilityView.xaml;EditBookView.xaml;EditExamView.xaml;EditStudentView.xaml;EditSubjectView.xaml;ExamView.xaml;SearchView.xaml;SharedResources.xaml;StudentsView.xaml;SubjectsView.xaml;
+AddAthleticsFacilityView.xaml;AddBookView.xaml;AddClassroomView.xaml;AddExamView.xaml;AddStudentView.xaml;AddSubjectView.xaml;AthleticsFacilityView.xaml;BookView.xaml;ClassroomView.xaml;DataTemplates.xaml;EditAthleticsFacilityView.xaml;EditBookView.xaml;EditClassroomView.xaml;EditExamView.xaml;EditStudentView.xaml;EditSubjectView.xaml;ExamView.xaml;SearchView.xaml;SharedResources.xaml;StudentsView.xaml;SubjectsView.xaml;
 
 False
 
