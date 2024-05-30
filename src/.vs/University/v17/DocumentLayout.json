@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack3\\student-pack3\\src\\university.views\\examview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\examview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack3\\student-pack3\\src\\university.main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|solutionrelative:university.main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack3\\student-pack3\\src\\university.views\\editexamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editexamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack3\\student-pack3\\src\\university.views\\examview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\examview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack3\\student-pack3\\src\\university.viewmodels\\editexamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -419,43 +419,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DataTemplates.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\DataTemplates.xaml",
-              "RelativeDocumentMoniker": "University.Views\\DataTemplates.xaml",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\DataTemplates.xaml",
-              "RelativeToolTip": "University.Views\\DataTemplates.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T13:38:15.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AddClassroomView.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\AddClassroomView.xaml",
-              "RelativeDocumentMoniker": "University.Views\\AddClassroomView.xaml",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\AddClassroomView.xaml",
-              "RelativeToolTip": "University.Views\\AddClassroomView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-30T11:38:49.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EditExamView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\EditExamView.xaml",
               "RelativeDocumentMoniker": "University.Views\\EditExamView.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\EditExamView.xaml",
               "RelativeToolTip": "University.Views\\EditExamView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T12:32:41.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:32:41.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ClassroomViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.ViewModels\\ClassroomViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\ClassroomViewModel.cs",
@@ -463,24 +438,22 @@
               "RelativeToolTip": "University.ViewModels\\ClassroomViewModel.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAA7wGAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T11:22:37.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T11:22:37.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EditClassroomView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\EditClassroomView.xaml",
               "RelativeDocumentMoniker": "University.Views\\EditClassroomView.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\EditClassroomView.xaml",
               "RelativeToolTip": "University.Views\\EditClassroomView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-30T11:46:06.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T11:46:06.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Classroom.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Models\\Classroom.cs",
               "RelativeDocumentMoniker": "University.Models\\Classroom.cs",
@@ -488,12 +461,11 @@
               "RelativeToolTip": "University.Models\\Classroom.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T11:12:25.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T11:12:25.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Main\\MainWindow.xaml",
               "RelativeDocumentMoniker": "University.Main\\MainWindow.xaml",
@@ -513,12 +485,46 @@
               "RelativeToolTip": "University.ViewModels\\AddClassroomViewModel.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAhwBQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T11:34:47.785Z",
+              "WhenOpened": "2024-05-30T11:34:47.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\ExamView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\ExamView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\ExamView.xaml",
+              "RelativeToolTip": "University.Views\\ExamView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T14:03:39.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
+              "Title": "AddClassroomView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\AddClassroomView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AddClassroomView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\AddClassroomView.xaml",
+              "RelativeToolTip": "University.Views\\AddClassroomView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:38:49.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataTemplates.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\DataTemplates.xaml",
+              "RelativeDocumentMoniker": "University.Views\\DataTemplates.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\DataTemplates.xaml",
+              "RelativeToolTip": "University.Views\\DataTemplates.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T13:38:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EditClassroomViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.ViewModels\\EditClassroomViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\EditClassroomViewModel.cs",
@@ -526,12 +532,11 @@
               "RelativeToolTip": "University.ViewModels\\EditClassroomViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T11:44:02.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T11:44:02.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EditClassroomView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\EditClassroomView.xaml.cs",
               "RelativeDocumentMoniker": "University.Views\\EditClassroomView.xaml.cs",
@@ -539,8 +544,7 @@
               "RelativeToolTip": "University.Views\\EditClassroomView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T11:48:01.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T11:48:01.436Z"
             },
             {
               "$type": "Document",
@@ -552,20 +556,7 @@
               "RelativeToolTip": "University.ViewModels\\ExamViewModel.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAQwDAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:38:16.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExamView.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\ExamView.xaml",
-              "RelativeDocumentMoniker": "University.Views\\ExamView.xaml",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\ExamView.xaml",
-              "RelativeToolTip": "University.Views\\ExamView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T14:03:39.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:38:16.996Z"
             },
             {
               "$type": "Document",
@@ -589,8 +580,7 @@
               "RelativeToolTip": "University.ViewModels\\EditExamViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0BAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:38:28.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:38:28.647Z"
             },
             {
               "$type": "Document",
@@ -601,8 +591,7 @@
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\AddExamView.xaml",
               "RelativeToolTip": "University.Views\\AddExamView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T12:33:34.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:33:34.259Z"
             },
             {
               "$type": "Document",
@@ -613,8 +602,7 @@
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\ClassroomView.xaml",
               "RelativeToolTip": "University.Views\\ClassroomView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-30T11:26:28.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T11:26:28.742Z"
             },
             {
               "$type": "Document",
@@ -626,8 +614,7 @@
               "RelativeToolTip": "University.ViewModels\\MainWindowViewModel.cs",
               "ViewState": "AQIAAIEAAAAAAAAAAAAEwJ4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:51:48.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:51:48.346Z"
             },
             {
               "$type": "Document",
@@ -639,8 +626,7 @@
               "RelativeToolTip": "University.ViewModels\\AddExamViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsBAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:38:37.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:38:37.622Z"
             },
             {
               "$type": "Document",
@@ -664,8 +650,7 @@
               "RelativeToolTip": "University.Data\\UniversityContext.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAuwNEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:38:15.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.668Z"
             },
             {
               "$type": "Document",
@@ -688,8 +673,7 @@
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack3\\Student-Pack3\\src\\University.Views\\StudentsView.xaml",
               "RelativeToolTip": "University.Views\\StudentsView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T15:32:16.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:32:16.926Z"
             },
             {
               "$type": "Document",

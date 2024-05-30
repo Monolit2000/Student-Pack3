@@ -29,7 +29,6 @@
                 <ContentControl Content="{Binding SearchSubView}" />
             </TabItem>
             
-            
             <TabItem Header="Books" Tag="&#xE82D;">
                 <ContentControl Content="{Binding BookSubView}" />
             </TabItem>
@@ -45,7 +44,6 @@
             <TabItem Header="Classroom" Tag="&#xE779;">
                 <ContentControl Content="{Binding ClassroomSubView}" />
             </TabItem>
-
         </TabControl>
     </Grid>
 </Window>
